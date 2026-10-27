@@ -12,7 +12,7 @@ AutoHire brings job discovery, requirement-level fit analysis, configurable resu
 
 AutoHire evaluates multiple job opportunities against the selected experience bank and presents an overall match score for each. The example below shows three synthetic roles with different fit levels.
 
-![Jobs list showing three synthetic roles with 100%, 90%, and 33% match scores](screenshots/01-jobs-overview.png)
+![Matching jobs list showing synthetic roles with varying match scores](screenshots/01-jobs-overview.png)
 
 ### 2. Inspect requirement-level evidence
 
@@ -30,9 +30,9 @@ A user selects a job, chooses a tailoring template, and starts a resume-generati
 
 ![AutoHire submitting a resume-tailoring request for the Data Engineer role](screenshots/04-tailoring-submission.png)
 
-Once generation finishes, the job card offers a **Preview tailored resume** action.
+Once generation finishes, AutoHire displays a **Tailoring complete** notification with a direct link to preview the generated resume. The job card also offers a **Preview tailored resume** action, so users can return to the result after continuing to browse.
 
-![AutoHire job list with Preview tailored resume available after completion](screenshots/05-tailoring-complete.png)
+![AutoHire matching jobs screen with a Tailoring complete notification and a direct resume preview link](screenshots/05-tailoring-complete.png)
 
 ### 4. Preview a tailored resume
 
