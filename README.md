@@ -4,7 +4,7 @@
 
 AutoHire brings job discovery, requirement-level fit analysis, configurable resume generation, and PDF preview into one workflow. The demo uses **fictional employers, job postings, and candidate data**.
 
-> **Live demo:** https://autohire-demo.pages.dev/  
+> **Live demo:** https://autohire-demo.pages.dev/#demo/8c966b412506852d1af700f0e24eaa466c15e8e91b3d5eebc3c0a1dbaf76d2aa  
 > The source code is maintained in a private repository; this public repository documents the product and engineering design.
 
 ## Product walkthrough
